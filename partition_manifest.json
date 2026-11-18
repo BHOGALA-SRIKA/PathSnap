@@ -1,0 +1,7 @@
+{
+  "training_trip_count": 80,
+  "student_test_trip_count": 10,
+  "training_student_test_id_overlap": [],
+  "reserved_evaluator_partition_present": false,
+  "reserved_evaluator_partition_processed": false
+}
